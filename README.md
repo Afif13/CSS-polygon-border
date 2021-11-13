@@ -47,13 +47,19 @@ A few use cases when the polygon border can be useful
 
 ### Button Collection
 
+![CSS Button Collection](https://github.com/Afif13/CSS-polygon-border/blob/b2caeace03930fe236089d3e581f17ab88b0c8a7/button%20collection.png)
+
 #### [Live Demo](https://codepen.io/t_afif/pen/abwBPPz)
 
 ### Breadcrumbs
 
+![CSS Breadcrumbs](https://github.com/Afif13/CSS-polygon-border/blob/b2caeace03930fe236089d3e581f17ab88b0c8a7/breadcrumb.png)
+
 #### [Live Demo](https://codepen.io/t_afif/pen/powNXwR)
 
 ### Callout & Speech Bubble
+
+![CSS Speech Bubble](https://github.com/Afif13/CSS-polygon-border/blob/b2caeace03930fe236089d3e581f17ab88b0c8a7/callout%20speech%20bubble.png)
 
 #### [Live Demo](https://codepen.io/t_afif/pen/qBjRPeV)
 
