@@ -43,7 +43,7 @@ Use this online tool to generate the path: https://bennettfeely.com/clippy/
 
 ## Use Cases
 
-A few use cases when the polygon border can be useful
+A few use cases where this worklet can be useful
 
 ### Button Collection
 
