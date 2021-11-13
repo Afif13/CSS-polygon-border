@@ -1,7 +1,7 @@
 @property --border{
   syntax: '<length>';
   inherits: true;
-  initial-value: 0;
+  initial-value: 5px;
 }
 
 .box {
