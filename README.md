@@ -41,6 +41,22 @@ Then you apply the following CSS
 ```
 Use this online tool to generate the path: https://bennettfeely.com/clippy/
 
+## Use Cases
+
+A few use cases when the polygon border can be useful
+
+### Button Collection
+
+#### [Live Demo](https://codepen.io/t_afif/pen/abwBPPz)
+
+### Breadcrumbs
+
+#### [Live Demo](https://codepen.io/t_afif/pen/powNXwR)
+
+### Callout & Speech Bubble
+
+#### [Live Demo](https://codepen.io/t_afif/pen/qBjRPeV)
+
 ----
 
-Find all the details in my {CSS-tricks article](https://css-tricks.com/exploring-the-css-paint-api-polygon-border/)
+Find all the details in my [CSS-tricks article](https://css-tricks.com/exploring-the-css-paint-api-polygon-border/)
