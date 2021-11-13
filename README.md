@@ -14,7 +14,7 @@ First, you include the Paint Worklet:
 ```html
 <script>
 if(CSS.paintWorklet) {              
-  CSS.paintWorklet.addModule('src/blob.js');
+  CSS.paintWorklet.addModule('src/polygon-border.js');
 } else {
   console.log("Your browser doesn't support the Paint API :(");
 }
