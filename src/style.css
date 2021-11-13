@@ -1,0 +1,15 @@
+@property --border{
+  syntax: '<length>';
+  inherits: true;
+  initial-value: 0;
+}
+
+.box {
+  margin:5px 20px;
+  width:200px;
+  height:200px;
+  display:inline-block;
+  clip-path:polygon(var(--path));
+  -webkit-mask:paint(polygon-border);
+          mask:paint(polygon-border);
+}
